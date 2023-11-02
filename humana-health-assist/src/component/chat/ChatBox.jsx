@@ -28,7 +28,7 @@ const ChatBox = () => {
   return (
     <Box
       sx={{
-        height: "100vh",
+        flex: 1,
         display: "flex",
         flexDirection: "column",
         bgcolor: "grey.200",

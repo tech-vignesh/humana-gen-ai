@@ -9,7 +9,7 @@ const Dashboard = () => {
     <div style={{ display: "flex", flexDirection: "column", height: "100vh" }}>
       <Header logoSrc="https://assets.humana.com/is/image/humana/2022_Humana_Logo_RGB_Contrast-Green_No-R_No-Pad_Horiz-1?fmt=png-alpha" />
       <div style={{ display: "flex", flex: 1 }}>
-        <CollapsibleCard title="Chat Bot" content={<ChatBox />} />
+        <ChatBox />
         {/* <CollapsibleCard title="Member Details" content={<Details />} /> */}
       </div>
     </div>
