@@ -45,7 +45,7 @@ const ChatBox = () => {
               fullWidth
               size="small"
               placeholder="Type a message"
-              style = {{ backgroundColor : "white"}}
+              style = {{ backgroundColor : "white", borderBlockColor: "#dad7cd"}}
               value={input}
               onChange={handleInputChange}
             />

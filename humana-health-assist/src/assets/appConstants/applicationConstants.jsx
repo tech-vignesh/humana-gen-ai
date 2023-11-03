@@ -1,0 +1,1 @@
+export const LOGO_SRC = 'https://assets.humana.com/is/image/humana/2022_Humana_Logo_RGB_Contrast-Green_No-R_No-Pad_Horiz-1?fmt=png-alpha';
