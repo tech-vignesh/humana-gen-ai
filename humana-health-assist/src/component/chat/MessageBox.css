@@ -1,0 +1,12 @@
+.message_list {
+    width: 100%;
+    overflow: auto;
+    /* scrollbar-width: thin;
+      flex-direction: column; */
+    position: absolute;
+    height: 80%;
+    overflow-y: scroll;
+    /* height:40vh; */
+    /* padding-top: 1%;
+      margin-top:5%; */
+  }

@@ -224,20 +224,6 @@ const Details = () => {
           </AccordionDetails>
         </Accordion>
       </>
-      {/* <MemberQuickLinkTitle>Quick Links</MemberQuickLinkTitle>
-      <List>
-        {linkData.map((data, index) => (
-          <MemberListItem key={index}>
-            {data.icon}
-            <div>
-              <MemberLinkItem href={data.href} target={data.target}>
-                {data.linkTitle}
-              </MemberLinkItem>
-              <MemberLinkDescription>{data.description}</MemberLinkDescription>
-            </div>
-          </MemberListItem>
-        ))}
-      </List> */}
     </PaperContainer>
   );
 };
